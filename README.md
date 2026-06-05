@@ -20,11 +20,9 @@ A modern e-commerce platform for exploring and purchasing digital tools. Users c
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
-Add your project screenshot here -->
 
- Example:
 <p align="center">
   <img src="./src/sreenshort/digitools ss.png" alt="Digital Tools Marketplace" width="100%">
 </p> 
